@@ -11,6 +11,9 @@ Welcome to my GitHub profile!
   <a href="https://www.facebook.com/pth.quynh.anh.2024" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://x.com/pth_qnh83" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
 </p>
 
 ## 🐍 Contribution Snake
