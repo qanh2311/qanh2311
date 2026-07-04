@@ -22,10 +22,6 @@ Welcome to my GitHub profile!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qanh2311&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qanh2311&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qanh2311&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## 🐍 Contribution Snake
 
