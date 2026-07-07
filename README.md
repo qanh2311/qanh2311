@@ -1,4 +1,4 @@
-# Hi 👋 I'm Quỳnh Anh, You can call me Lime
+# Hi 👋 I'm Quỳnh Anh
 
 Welcome to my GitHub profile!
 
