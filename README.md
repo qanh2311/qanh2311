@@ -16,12 +16,6 @@ Welcome to my GitHub profile!
   </a>
 </p>
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qanh2311&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
 
 ## 🐍 Contribution Snake
 
