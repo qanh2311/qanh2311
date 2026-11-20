@@ -1,6 +1,21 @@
+
 # Hi 👋 I'm Quỳnh Anh
 
 Welcome to my GitHub profile!
+
+## 💻 Tech Stack
+
+### 🚀 Languages & Frameworks
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🌐 Connect with me
 
@@ -15,7 +30,6 @@ Welcome to my GitHub profile!
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
 </p>
-
 
 ## 🐍 Contribution Snake
 
